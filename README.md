@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/fc/12/40/fc1240923a8f5edd966214634fd39332.jpg" width="100% top="0px" />
+<img src="https://i.pinimg.com/1200x/fc/12/40/fc1240923a8f5edd966214634fd39332.jpg" width="100% " />
 
 <div align="center">
   <h3>Welcome to Aya's GitHub </></h3>
