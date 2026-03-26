@@ -1,4 +1,4 @@
-<img src="media__1774529170407.jpg" width="100%" />
+<img src="https://i.pinimg.com/1200x/37/76/14/37761403c5b693e42f4a947e5c2f4fe1.jpg" width="100%" />
 
 <div align="center">
   <h3>Welcome to [YOUR_NAME]'s GitHub </></h3>
