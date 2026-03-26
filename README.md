@@ -41,13 +41,6 @@
 </div>
 
 <br/>
-<p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="linkedin_sticker.png" height="35" /></a>
-  &nbsp;
-  <a href="mailto:[YOUR_EMAIL]"><img src="email_sticker.png" height="35" /></a>
-</p>
-
-
 
 
 
