@@ -17,9 +17,9 @@
 <table>
   <tr>
     <td width="60%">
-      Hello There! I'm <b>[YOUR_NAME]</b>, a Systems Engineer student. I enjoy learning new technologies and problem solving. Now I'm working on some projects to put in practice my knowledge about JavaScript, React, and more.
+      Hello There! I'm <b>Aya</b>, a  computer science  student. I enjoy learning new technologies and problem solving. Now I'm working on some projects to put in practice my knowledge about JavaScript, React, and more.
       <br/><br/>
-      🏛️ Studying at <b>[YOUR_UNIVERSITY]</b><br/>
+      🏛️ Studying at <b>Estin</b><br/>
         </td>
     <td width="40%" align="center">
       <img src="pixel_earth_sticker.png" width="60" style="width: 60px; height: auto;" />
@@ -34,6 +34,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,py,ts,react,js,html,css,tail" />
 </p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 
 
