@@ -6,7 +6,7 @@
   
   <p align="center">
     <a href="https://personal-linktree-l6lr.vercel.app">
-      <b>🔗 My Accounts & Projects</b>
+      <b>🔗 My Accounts</b>
     </a>
   </p>
 </div>
